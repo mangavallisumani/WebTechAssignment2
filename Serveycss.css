@@ -1,0 +1,44 @@
+.title{
+	padding: 25px;
+	background:#330033;
+	color: white;
+	margin: auto;
+	width: 32%;
+font-family: 'Josefin Sans', sans-serif;
+
+
+}
+input[type=Submit] {
+	background: #57B846;
+	color: white;
+	width: 475px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+input{
+	padding: 5px;
+	border-radius: 4px;
+	margin-top: 6px;
+}
+.main {
+	background: url("https://www.verywellmind.com/thmb/nrBM3VsnMVssBunBEvGK9BEh25A=/3439x2579/smart/filters:no_upscale()/GettyImages-508402989-56a797513df78cf772976abd.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	opacity: 0.9;
+}
+.sub{
+	text-align: center;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+.inner{
+margin-top:10px;
+margin-bottom: 20px; 
+}
+.ss {
+        width: 470px;
+        padding: 5px;
+	border-radius: 4px;
+
+    }
